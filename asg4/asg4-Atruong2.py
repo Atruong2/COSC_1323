@@ -2,6 +2,9 @@
 # Atruong2
 # 09/24/17
 
+# This program asks the user to guess a number between 1 and 50 in as few attempts as possible. 
+# The program also counts the number of user attempts to guess the number.
+  
 import random
 
 def main():
